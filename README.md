@@ -1,4 +1,4 @@
-# Exercis-Ruby 
+# Exercis
 
 
 Materi Nested IF
