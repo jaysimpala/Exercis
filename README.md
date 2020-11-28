@@ -20,7 +20,7 @@ Jml Anak  | Tunjangan
 2         | 1000000
 3         | 1500000
 4         | 2000000
-4>        | 2500000
+4         | 2500000
 
 Table Bonus (lama kerja)
 
